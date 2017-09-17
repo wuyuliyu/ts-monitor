@@ -1,0 +1,17 @@
+.idea/
+
+.DS_Store
+
+node_modules
+/
+dist
+/
+npm-debug
+.log
+selenium-debug
+.log
+logs
+/*.log
+tmps/
+.vscode/
+global.json
